@@ -6,6 +6,9 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
+//Vitalii Bobyr - 06/15/24"
+//Programming 120 - Code Practice - Loops"
+
 
 namespace Сonsole
 {
